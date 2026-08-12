@@ -1,10 +1,23 @@
 # Personal Website
 
-A simple static portfolio site for Ajape Rasaq Ishola.
+A custom-built single-page portfolio site for Ajape Rasaq Ishola.
 
-## About
+## Project Overview
 
-This project uses HTML, CSS, and JavaScript only. It is ready to deploy as a static site.
+This site is built from scratch using only HTML, CSS, and JavaScript. It is not based on any theme or template.
+
+## What is included
+
+- A single-page layout with sections for About, Skills, Experience, Projects, Gallery, Education, and Contact.
+- A custom hero section with profile information.
+- A gallery section containing at least 5 personal photos.
+- Responsive styling and basic interaction via `script.js`.
+
+## Tech Stack
+
+- HTML
+- CSS
+- JavaScript
 
 ## Deploy
 
@@ -15,5 +28,5 @@ This project uses HTML, CSS, and JavaScript only. It is ready to deploy as a sta
 
 ## Notes
 
-- Images are currently using placeholder URLs in `index.html`
-- Update the content and images as needed
+- The gallery uses local images from the `images/` folder.
+- The repo is ready for static hosting.
